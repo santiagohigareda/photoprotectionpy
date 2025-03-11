@@ -6,7 +6,7 @@ Documentation, Tutorials and Wiki are available on [Link](https://github.com/san
 
 To cite PhotoprotectionPy, please use the following reference:
 ```
-PhotoprotectionPy: An open source Python package for in vitro sunscreen sun protection factor evaluation. (2024). Santiago Guerrero-Higareda. [Link.](https://github.com/santiagohigareda/sunscreenpy).
+PhotoprotectionPy: An open source Python package for in vitro sunscreen protection factor evaluation. (2024). Santiago Guerrero-Higareda.https://github.com/santiagohigareda/sunscreenpy).
 ```
 
 ## Changelog
