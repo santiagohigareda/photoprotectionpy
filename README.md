@@ -2,16 +2,14 @@
 # PhotoprotectionPy
 PhotoprotectionPy is a python package to perform the calculations needed to determine and evaluate *in vitro* Sunscreen Protection Factor (SPF) following ISO 24443.
 
-Documentation, Tutorials and Wiki are available on [Link](https://github.com/santiagohigareda/sunscreenpy). 
+Documentation, Tutorials and Wiki are available on [Link](https://github.com/santiagohigareda/photoprotectionpy). 
 
 To cite PhotoprotectionPy, please use the following reference:
 ```
-PhotoprotectionPy: An open source Python package for in vitro sunscreen protection factor evaluation. (2024). Santiago Guerrero-Higareda.https://github.com/santiagohigareda/sunscreenpy).
+Guerrero-Higareda, S. (2025). PhotoprotectionPy (Version 1.0.2) [Python].
+  https://github.com/santiagohigareda/photoprotectionpy
 ```
 
-## Changelog
-- v 1.0.0: First stable version.
-  
 ## License and copyright notice
 
 © 2024 Santiago Guerrero-Higareda
