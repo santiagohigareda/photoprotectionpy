@@ -29,7 +29,7 @@ def uvapf(data,C,integration=None, batch=None):
         Each column of the array is a treatment, where 
         rows correspond to each read measured from 290 
         to 400 nm (dλ=1). Use mean absorbance before UV 
-        absorbance for UVA-PF<sub>0<sub> and mean absorbanve 
+        absorbance for UVA-PF<sub>0<sub> and mean absorbance 
         after UV exposure for UVA-PF.
     C : float
         Coefficient of adjustment "C".
@@ -39,7 +39,7 @@ def uvapf(data,C,integration=None, batch=None):
      batch : boolean
          By default False. If true, will determine C or SPF of 
          all data samples against a single target SPF or an
-         already calcualted C value.
+         already calculated C value.
          
     Returns
     -------
