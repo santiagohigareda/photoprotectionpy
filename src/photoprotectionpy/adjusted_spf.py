@@ -52,7 +52,7 @@ def adjspf(data,mode,values,parameters=None,integration=None, batch=None):
     batch : boolean
         By default False. If true, will determine C or SPF of 
         all data samples against a single target SPF or an
-        already calcualted C value.
+        already calculated C value.
         
     Returns
     -------
