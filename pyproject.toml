@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "photoprotectionpy"
-version = "1.0.3"
+version = "1.0.4"
 description = "PhotoprotectionPy: In vitro sunscreen protector factor evaluation python package"
 readme = "README.md"
 requires-python = ">=3.9"
