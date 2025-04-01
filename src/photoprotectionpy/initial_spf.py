@@ -24,7 +24,7 @@ def ispf(data,integration=None):
     ----------
     data : list, pandas.DataFrame or numpy.array
         Each column of the array is a treatment, where rows correspond 
-        to each read measured from 290 to 400 nm (dλ=1). 
+        to each reading measured from 290 to 400 nm (dλ=1). 
     integration : string
         Choose between "trapz" (default)
         or "simpson"
