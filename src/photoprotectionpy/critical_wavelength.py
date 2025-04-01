@@ -22,7 +22,7 @@ wavelengths=[290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306
               383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400]
 def criticalwave(data,integration=None):
     """
-    CalcuLate the Critical Wavelength (CW)
+    Calculate the Critical Wavelength (CW)
 
     Parameters
     ----------
@@ -35,7 +35,7 @@ def criticalwave(data,integration=None):
     Returns
     -------
     CW: int
-        ReturnS CW.
+        Returns CW.
 
     """
     data=np.asarray(data)
