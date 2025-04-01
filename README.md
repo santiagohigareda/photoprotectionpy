@@ -6,7 +6,7 @@ Documentation, Tutorials and Wiki are available on [Link](https://github.com/san
 
 To cite PhotoprotectionPy, please use the following reference:
 ```
-Guerrero-Higareda, S. (2025). PhotoprotectionPy (Version 1.0.2) [Python].
+Guerrero-Higareda, S. (2025). PhotoprotectionPy (Version 1.1.4) [Python].
   https://github.com/santiagohigareda/photoprotectionpy
 ```
 
