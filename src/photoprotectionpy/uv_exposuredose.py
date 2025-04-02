@@ -14,6 +14,7 @@ Copyright © 2024 Santiago Guerrero-Higareda
    See the License for the specific language governing permissions and
    limitations under the License.
 """
+import numpy as np
 def uvdose(UVAPF0):
     """
     Determine UV exposure dose.
@@ -30,5 +31,5 @@ def uvdose(UVAPF0):
         UV dose in J/cm^2
 
     """
-    D=UVAPF0*1.2
+    D=np.array(UVAPF0)*1.2
     return D
